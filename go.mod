@@ -22,8 +22,8 @@ require (
 	github.com/srwiley/oksvg v0.0.0-20200311192757-870daf9aa564 // indirect
 	github.com/srwiley/rasterx v0.0.0-20200120212402-85cb7272f5e9 // indirect
 	github.com/stretchr/testify v1.7.1 // indirect
-	github.com/yuin/goldmark v1.4.1 // indirect
-	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd // indirect
+	github.com/yuin/goldmark v1.4.13 // indirect
+	golang.org/x/image v0.5.0 // indirect
 	golang.org/x/mobile v0.0.0-20211207041440-4e6c2922fdee // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
